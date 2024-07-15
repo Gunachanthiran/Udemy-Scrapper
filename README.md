@@ -18,7 +18,7 @@ tqdm
 
 **Installation**
 **Clone the Repository:**
-git clone https://github.com/yourusername/CourseScraper.git
+git clone https://github.com/Gunachanthiran/Udemy-Scrapper/CourseScraper.git
 cd CourseScraper
 Install Dependencies:
 
