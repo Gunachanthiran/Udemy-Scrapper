@@ -42,6 +42,7 @@ The scraped course details will be exported to an Excel file with a timestamped 
 
 **Code Overview**
 **CourseScraper Class:**
+
 __init__(): Initializes the scraper with necessary options.
 **get_driver()**: Initializes the Selenium WebDriver.
 **get_course_links():** Extracts course links from a given BeautifulSoup object.
